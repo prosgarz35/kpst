@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://prosgarz35.github.io/kpst/sitemap.xml
